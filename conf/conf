@@ -1,0 +1,29 @@
+
+;; daemon process
+is_daemon = 1
+
+;;app_lock = 1
+
+;; servername
+serverName = hsmiddle
+
+;; ip
+ip = 192.168.0.149
+
+port = 8201
+
+listenLen = 32
+
+lock_file = hsmiddle.lock
+
+mq_key = 10011
+
+thread_count = 25
+
+black_list = 100.117,192.168
+white_list = 192.168.0.1,192.168.0.3
+
+
+error_file = ../conf/err_map.cfg
+
+

@@ -1,0 +1,15 @@
+=========================================================================
+Project Name: hsmiddle
+
+Version Code: 1.1.2
+
+Author: Tom Hui
+
+Modify Time: Mon Jan 21 17:30 CST 2019
+
+=========================================================================
+This project comprises the code C++ api abstractions.
+Internally, it is used as basic for building many middle 
+servers. This release focuses on the common abstractions
+and simple client APIs as well. The goal is to provide a
+simple, performant, and modern C++ library.

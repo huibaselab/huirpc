@@ -1,0 +1,85 @@
+=================================================================================
+VERSION CODE: V1S9
+VERSION CREATE DATE: Mon Jun 23 1617 CST 2018
+VERSION AUTHOR: Tom Hui 8613760232170. tomhui1009@yahoo.com
+VERSION COMMENT:
+        > Change memcached connection to short-connection;
+        > fix thread 0 query mysql db failed;
+
+
+=================================================================================
+VERSION CODE: V1S8
+VERSION CREATE DATE: Mon Jun 23 1617 CST 2018
+VERSION AUTHOR: Tom Hui 8613760232170. tomhui1009@yahoo.com
+VERSION COMMENT:
+        > add client connection;
+
+
+=================================================================================
+VERSION CODE: V1S7
+VERSION CREATE DATE: Sat Jun 23 1617 CST 2018
+VERSION AUTHOR: Tom Hui 8613760232170. tomhui1009@yahoo.com
+VERSION COMMENT:
+        > add memcached connection;
+
+
+=================================================================================
+VERSION CODE: V1S5
+VERSION CREATE DATE: Sat Jun 23 1115 CST 2018
+VERSION AUTHOR: Tom Hui 8613760232170. tomhui1009@yahoo.com
+VERSION COMMENT:
+        > update mid for userserver;
+        > change makefile;
+
+
+=================================================================================
+VERSION CODE: V1S3
+VERSION CREATE DATE: Fri Jun 22 21:39 CST 2018
+VERSION AUTHOR: Tom Hui 8613760232170. tomhui1009@yahoo.com
+VERSION COMMENT:
+        > Make an standard heshu-middle communication protocol;
+        > Add a delete shell-script;
+        > Compile to a object library;
+
+
+=================================================================================
+VERSION CODE: V1S2
+VERSION CREATE DATE: Fri Jun 22 21:36 CST 2018
+VERSION AUTHOR: Tom Hui 8613760232170. tomhui1009@yahoo.com
+VERSION COMMENT:
+        > every thread hold a mysql connection;;
+
+
+
+=================================================================================
+VERSION CODE: V2S1E1
+VERSION CREATE DATE: Fri Feb 15 17:36 CST 2019
+VERSION AUTHOR: Tom Hui 8613760232170. tomhui1009@yahoo.com
+VERSION COMMENT:
+        > remove the lock;;
+
+
+=================================================================================
+VERSION CODE: V2S2E1
+VERSION CREATE DATE: Web Mar 6 21:51 CST 2019
+VERSION AUTHOR: Tom Hui 8613760232170. tomhui1009@yahoo.com
+VERSION COMMENT:
+        > change mysql lib to libhuidb without mysqlpp;
+        > change for system log;
+
+
+=================================================================================
+VERSION CODE: V2S3E2
+VERSION CREATE DATE: Web Mar 27 11:07 CST 2019
+VERSION AUTHOR: Tom Hui 8613760232170. tomhui1009@yahoo.com
+VERSION COMMENT:
+        > add HandleError;
+        > add des3 encrypto to CallApi;
+
+
+=================================================================================
+VERSION CODE: V3S1E1
+VERSION CREATE DATE: Tue Apri 9 15:35 CST 2019
+VERSION AUTHOR: Tom Hui +8613760232170. tomhui1009@yahoo.com
+VERSION COMMENT:
+        > print base exception information;
